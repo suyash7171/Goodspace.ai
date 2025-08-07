@@ -23,7 +23,7 @@ A modern Instagram-style social media app built with Flutter and Firebase. Featu
 ### Setup
 1. Clone this repo:
    ```sh
-   git clone https://github.com/suyash7103/Goodspace.ai.git
+   git clone https://github.com/suyash7171/Goodspace.ai.git
    cd Goodspace.ai
    ```
 2. Install dependencies:
